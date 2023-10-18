@@ -54,6 +54,10 @@
       <Project>{8429abe7-4104-4a59-849c-830a26f843de}</Project>
       <Name>Domain</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Repository\Repository.csproj">
+      <Project>{AD444D55-3189-4B4D-BC83-C3651F9451B4}</Project>
+      <Name>Repository</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Service\Service.csproj">
       <Project>{4d2ec28a-d609-4819-b3d4-1323ea56e38f}</Project>
       <Name>Service</Name>
