@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Entrevista
+/Console/bin/Debug
+/Console/obj/Debug
+/Domain/bin/Debug
+/Domain/obj/Debug
+/packages
+/Repository/bin/Debug
+/Repository/obj/Debug
+/Service/bin/Debug
+/Service/obj/Debug
+/Test/bin/Debug
+/Test/obj/Debug
